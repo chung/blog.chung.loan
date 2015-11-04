@@ -6,5 +6,5 @@ title = "About"
 
 ## About
 
-This is our personal site.
+This is my personal site.
 

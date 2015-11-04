@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Our love story</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on Our love story</description>
+    <title>Posts on Chung&#39;s Blog</title>
+    <link>http://blog.chung.loan/post/</link>
+    <description>Recent content in Posts on Chung&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2015 21:40:58 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.chung.loan/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Love is here to stay</title>
-      <link>http://localhost:1313/post/love/</link>
+      <link>http://blog.chung.loan/post/love/</link>
       <pubDate>Thu, 15 Oct 2015 21:40:58 +0700</pubDate>
       
-      <guid>http://localhost:1313/post/love/</guid>
+      <guid>http://blog.chung.loan/post/love/</guid>
       <description>&lt;p&gt;It is always hard to define love.&lt;/p&gt;
 </description>
     </item>

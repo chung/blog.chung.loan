@@ -1,4 +1,4 @@
-baseurl = "http://chung.loan/"
+baseurl = "http://blog.chung.loan/"
 languageCode = "en-us"
-title = "Our love story"
+title = "Chung's Blog"
 theme = "hyde"

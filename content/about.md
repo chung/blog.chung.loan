@@ -4,7 +4,5 @@ title = "About"
 
 +++
 
-## About
-
 This is my personal site. And I will write occasionally about my life or whatever interests me. Thanks for visiting.
 

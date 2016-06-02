@@ -2,36 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chung&#39;s Blog</title>
-    <link>http://blog.chung.loan/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Chung&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Dec 2015 22:25:16 +0700</lastBuildDate>
-    <atom:link href="http://blog.chung.loan/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Marriage</title>
-      <link>http://blog.chung.loan/post/marriage/</link>
-      <pubDate>Wed, 30 Dec 2015 22:25:16 +0700</pubDate>
-      
-      <guid>http://blog.chung.loan/post/marriage/</guid>
-      <description>&lt;p&gt;“A great marriage is not when the ‘perfect couple’ comes together. It is when an imperfect couple learns to enjoy their differences.”
-– Dave Meurer&lt;/p&gt;
-
-&lt;p&gt;Today we finally got marriaged. After sometimes discussing whether we should keep the relationship as lovers or should we commit to marriage. And the final decision is getting married.&lt;/p&gt;
-
-&lt;p&gt;We have works to do. We need to learn and enjoy the differences between us, which is quite a few. But I have faith in our relationship. We will survive.&lt;/p&gt;
-
-&lt;p&gt;Lets our journey begin.&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Thu, 15 Oct 2015 22:07:58 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>http://blog.chung.loan/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 15 Oct 2015 22:07:58 +0700</pubDate>
       
-      <guid>http://blog.chung.loan/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;This is my personal site. And I will write occasionally about my life or whatever interests me. Thanks for visiting.&lt;/p&gt;
 </description>
     </item>

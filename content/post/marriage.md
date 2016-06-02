@@ -5,6 +5,7 @@ Tags = ["Love", "Journal"]
 date = "2015-12-30T22:25:16+07:00"
 menu = "main"
 title = "Marriage"
+draft = "True"
 
 +++
 

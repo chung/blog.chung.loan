@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chung&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>http://blog.chung.loan/</link>
     <description>Recent content on Chung&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2015 22:07:58 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Aug 2016 12:07:58 +1000</lastBuildDate>
+    <atom:link href="http://blog.chung.loan/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Thu, 15 Oct 2015 22:07:58 +0700</pubDate>
+      <link>http://blog.chung.loan/about/</link>
+      <pubDate>Fri, 19 Aug 2016 12:07:58 +1000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;This is my personal site. And I will write occasionally about my life or whatever interests me. Thanks for visiting.&lt;/p&gt;
+      <guid>http://blog.chung.loan/about/</guid>
+      <description>&lt;p&gt;Đây là trang cá nhân của tôi.&lt;/p&gt;
 </description>
     </item>
     

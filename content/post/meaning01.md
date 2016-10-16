@@ -4,7 +4,7 @@ Description = "Experiences in a Concentration Camp"
 Tags = ["translate", "meaning"]
 date = "2016-10-12T22:08:00+07:00"
 menu = "main"
-title = "Những trải nghiệm ở trong trại tập trung của Đức Quốc Xã"
+title = "Những trải nghiệm ở trong tù"
 
 +++
 
@@ -25,7 +25,15 @@ Như tôi vừa đề cập, việc tuyển chọn Capos là một quy trình kh
 
 
 
-Rất nhiều tài liệu về các nhà tù phát xít Đức đã được ghi nhận. Tuy nhiên ở đây, nó cũng sẽ chỉ có ý nghĩa khi là một phần của các trải nghiệm thực tế. Phần này của quyển sách sẽ cố gắng mô tả chính xác lại những trải nghiệm này. Đối với những người từng là tù nhân trong trại, nó sẽ cố gắng giải thích những gì đã diễn ra với họ bằng con mắt hôm nay. Và đối với người chưa bao giờ ở bên trong, nó có thể giúp họ phần nào cảm nhận và thấu hiểu những gì đã xảy ra trong tù của một bộ phận nhỏ các tù nhân sống sót và hiện đang thấy cuộc sống rất khó khăn. Các cựu tù nhân này thường nói: "chúng tôi không thích nói về những trải nghiệm của chúng tôi. Không có lời giải thích nào là cần thiết đối với những người từng ở trong tù, và những người khác thì cũng không bao giờ hiểu được những gì chúng tôi đã trải qua, cũng như cảm giác của chúng tôi bây giờ".
+Rất nhiều tài liệu về các nhà tù phát xít Đức đã được ghi nhận. Tuy nhiên ở đây, nó cũng sẽ chỉ có ý nghĩa khi là một phần của các trải nghiệm thực tế. Phần này của quyển sách sẽ cố gắng mô tả chính xác lại những trải nghiệm này. Đối với những người từng là tù nhân trong trại, nó sẽ cố gắng giải thích những gì đã diễn ra với họ bằng con mắt hôm nay. Và đối với người chưa bao giờ ở bên trong, nó có thể giúp họ phần nào cảm nhận và thấu hiểu những gì đã xảy ra trong tù của một bộ phận nhỏ các tù nhân sống sót và hiện đang thấy cuộc sống rất khó khăn. Các cựu tù nhân này thường nói: "chúng tôi không thích nói về những trải nghiệm của mình. Không có lời giải thích nào là cần thiết đối với những người từng ở trong tù, và những người khác thì cũng không bao giờ hiểu được những gì chúng tôi đã trải qua, cũng như cảm giác của chúng tôi bây giờ".
+
+Để cố gắng trình bày vấn đề này một cách khoa học là rất khó khăn, vì tâm lý học đòi hỏi một sự quan sát khách quan nhất định. Liệu các nhìn nhận của một người đàn ông trong tù có khách quan hay không? Người ở ngoài thì có được điều này, nhưng lại quá xa rời thực tiễn để ý kiến thực sự có giá trị. Chỉ có người trong cuộc hiểu được. Những quan sát của anh ta có thể không hoàn toàn khách quan; những đánh giá thì có khi hơi quá. Đây là điều không thể tránh khỏi. Phải cố gắng để tránh những nhận định chủ quan, và đó là điều thực sự khó khăn của một cuốn sách thuộc loại này. Có lúc cần phải có can đảm để nói về những trải nghiệm rất riêng tư. Tôi đã định viết cuốn sách này ẩn danh, chỉ sử dụng số tù nhân của tôi. Nhưng khi bản thảo được hoàn thành, tôi thấy nếu như vậy thì sẽ mất đi một nửa giá trị của nó, và rằng tôi phải có can đảm để nói ra những xác tín của mình một cách công khai. Vì vậy, tôi đã không xóa bất kỳ một đoạn nào, mặc dù việc này thật không dể chịu đối với tôi.
+
+Tôi sẽ để cho mọi người tự rút ra lý thuyết của riêng mình từ cuốn sách này. Đây có thể trở thành một đóng góp vào tâm lý học về cuộc sống trong tù. Điều này đã được nghiên cứu sau chiến tranh thế giới thứ nhất, và đã làm chúng ta quen với hội chứng của "bệnh dây thép gai". Chiến tranh thế giới thứ hai để làm phong phú thêm kiến thức của chúng ta về "bệnh tâm thần của quần chúng" (nếu tôi có thể trích dẫn một biến thể của cụm từ nổi tiếng và cũng là tiêu đề một cuốn sách của Lebon), vì cuộc chiến tàn khốc này đã đẩy chúng ta đến giới hạn của sức chịu đựng, và đem đến những trại tù tử thần.
+
+
+
+
 
 
 

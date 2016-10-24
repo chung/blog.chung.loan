@@ -3,10 +3,16 @@ Categories = ["translate", "meaning"]
 Description = "Experiences in a Concentration Camp"
 Tags = ["translate", "meaning"]
 date = "2016-10-12T22:08:00+07:00"
-menu = "main"
-title = "Những trải nghiệm ở trong tù"
+title = "Sách dịch: Man's search for meaning"
 
 +++
+
+Man's search for meaning là quyển sách do Viktor E. Frankl viết. Tôi sẽ cố gắng dịch ra tiếng Việt bằng cách hiểu của tôi mà có thể lược bỏ một số đoạn khó dịch.
+
+
+PHẦN 1: Những trải nghiệm ở trong nhà tù phát xít Đức
+
+
 
 Quyển sách này không phải là một tài liệu lịch sử. Nó ghi lại những trải nghiệm của cá nhân tôi cũng như hàng triệu tù nhân khác. Được kể lại bởi một trong số ít người còn sống sót lại qua các nhà tù của phát xít Đức, quyển sách này không quan tâm đến những tội ác kinh hoàng đến khó tin đã được nghe về các nhà tù của Hitler. Đây là câu chuyện về vô số những tra tấn thường ngày trong các "địa ngục trần gian" này. Nói cách khác, nó cố gắng trả lời cho câu hỏi: cuộc sống hàng ngày trong trại tập trung diễn ra như thế nào qua con mắt của một tù nhân.
 
@@ -32,7 +38,24 @@ Rất nhiều tài liệu về các nhà tù phát xít Đức đã được ghi
 Tôi sẽ để cho mọi người tự rút ra lý thuyết của riêng mình từ cuốn sách này. Đây có thể trở thành một đóng góp vào tâm lý học về cuộc sống trong tù. Điều này đã được nghiên cứu sau chiến tranh thế giới thứ nhất, và đã làm chúng ta quen với hội chứng của "bệnh dây thép gai". Chiến tranh thế giới thứ hai để làm phong phú thêm kiến thức của chúng ta về "bệnh tâm thần của quần chúng" (nếu tôi có thể trích dẫn một biến thể của cụm từ nổi tiếng và cũng là tiêu đề một cuốn sách của Lebon), vì cuộc chiến tàn khốc này đã đẩy chúng ta đến giới hạn của sức chịu đựng, và đem đến những trại tù tử thần.
 
 
+Câu chuyện này kể về những trải nghiệm của tôi như là một tù nhân bình thường. Chính vì vậy, tôi tự hào rằng tôi đã không được dùng như là một bác sỹ tâm lý, hay thậm chí là bác sỹ chung trong trại, trừ một vài tuần cuối. Một vài người bạn của tôi được may mắn làm y tá viên chăm sóc các tù nhân khác. Nhưng tôi là tù nhân số 119104, và hầu hết thời gian tôi phải đào hầm hay lát các đường ray xe lửa. Một lần, tôi phải một mình đào hầm nước chạy ở dưới đường cái. Kỳ tích này của tôi được ghi nhận. Trước giáng sinh 1944, tôi được tặng một phần thưởng gọi là "phiếu đặc biệt". Những phiếu này tạo ra do các công ty xây dựng đã thuê chúng tôi như là nô lệ. Họ phải trả một giá cố định mỗi người theo ngày cho các cai tù quản lý chúng tôi. Những phiếu này giá trị 50 xu và có thể đổi được 6 điếu thuốc. Tôi trở thành chủ nhân đầy tự hào của 2 tấm phiếu như vậy, nghĩa là 12 điếu thuốc. Quan trọng hơn, những điếu thuốc này có thể đổi thành 12 tô súp, và chúng có thể cứu tôi khỏi chết đói.
 
+Đặc quyền được hút thuốc chỉ dành cho các Capo, những người được bảo đảm một lượng phiếu nhất định hàng tuần, hoặc là dành cho các tù nhân làm các công việc hết sức nguy hiểm. Ngoại lệ duy nhất là các trường hợp những tù nhân đã mất hết ý chí sống và muốn "thưởng thức" một vài ngày cuối. Vì vậy khi chúng tôi thấy một bạn tù đang hút thuốc, chúng tôi biết là anh ấy đã mất hết niềm tin vào nội lực để tiếp tục sống của mình. Và một khi đã đánh mất, ý chí sống này hiếm khi trở lại.
+
+
+Khi xem xét một lượng lớn tài liệu được tập hợp lại từ những quan sát và trải nghiệm của tù nhân, ba giai đoạn của diển biến tâm lý được hình thành rõ nét: giai đoạn mới nhập trại, giai đoạn quen thuộc với đời sống trong tù, và giai đoạn sau khi được giải thoát và tự do.
+
+Hiện tượng đặc trưng của giai đoạn thứ nhất là sốc. Trong một số trường hợp thì sốc còn xảy ra trước cả khi vào trại. Ví dụ như trường hợp của tôi.
+
+1500 con người đang bị di chuyển bằng tàu vài ngày qua: mỗi toa gồm khoảng 80 người. Tất cả phải nằm trên hành lý tư trang còn sót lại của họ. Các toa chật cứng đến nổi chỉ có phần trên của cửa sổ là được mở để cho một chút anh sáng vào. Mọi người đều mong đợi tàu sẽ đi đến một xưởng vũ khí nào đó, nơi chúng tôi sẽ bị bắt làm nhân công. Chúng tôi không biết là đang ở Silesia hay là đã đến Ba Lan rồi. Tiếng còi tàu như than khóc não nề. Đoàn tàu đang đi qua một nhà ga chính. Đột nhiên một người hét lên kinh hoàng: "Đây là Auschwitz!". Tim mọi người như ngừng đập. Auschwitz - cái tên thật kinh hoàng gắn với các nhà hơi ngạt, hoả thiêu và giết người hàng loạt. Chậm chạp, gần như là ngập ngừng, đoàn tàu lại tiếp tục đi để cho mọi người ngấm sự sợ hãi Auschwitz.
+
+Màn đêm xuống dần, những hình ảnh của một trại tập trung hình thành: những dãy dây thép gai, các vòi tắm, những cột đèn, và hàng dài tù nhân gầy guộc đang đi dọc những con đường thẳng, đi về đâu họ cũng không được biết. Có những tiếng la hét và huýt sáo của các cai tù. Chúng tôi không hiểu ý nghĩa của nó. Tôi tưởng tượng đến những giá treo cổ. Tôi kinh sợ, và từng bước một chúng tôi phải làm quen với cuộc sống kinh khủng này.
+
+
+Cuối cùng thì chúng tôi cũng vào đến một ga. Sự im lặng ban đầu bị thay thế bằng những tiếng quát tháo. Và chúng tôi nghe những tiếng hét ghê rợn mà từ nay sẽ trở nên quen thuộc. Như là tiếng kêu của một người trước lúc chết. Đúng hơn, nó giống tiếng một người hét lên liên tục như bị giết nhiều lần. Cửa toa mở và chúng tôi thấy một nhóm tù nhân xuất hiện. Họ mặc quần áo tù, đầu cạo trọc, nhưng nhìn có vẻ khoẻ mạnh. Họ nói đủ thứ tiếng châu Âu, và nhìn hài hước. Giống như chết đuối vớ được cọc, sự lạc quan bẩm sinh của tôi bám vào suy nghĩ: những người tù binh này có vẻ khoẻ mạnh và tinh thần tốt, ai mà biết được, biết đâu mình cũng được như vậy.
+
+
+Trong tâm lý học có một hiện tượng gọi là: ảo giác được tha. Người tử tù bị kết án, ngay trước lúc lên pháp trường, có ảo giác là họ sẽ được tha vào phút cuối. Chúng tôi cũng vậy, nuôi một hy vọng cho đến phút cuối là tình hình có lẽ không đến nổi tệ. Cứ nhìn vào những tù binh khoẻ mạnh này cũng làm cho chúng tôi tin tưởng hơn. Chúng tôi đâu biết rằng những tù nhân này được tuyển chọn đặc biệt để làm nhiệm vụ tiếp đón các tù binh mới. Bọn họ còn kiêm luôn nhiệm vu chiếm đoạt hết các đồ trang sức quý hiếm còn lại từ các tù binh mới này. Auschwitz có lẽ là nơi lạ lùng nhât châu Âu trong năm cuối cùng của cuộc chiến: nơi đây có nhiều tài sản độc đáo bằng vàng, bạc, bạch kim và kim cương - không những trong các tiệm vàng lớn mà còn trong tay bọn phát xít.
 
 
 

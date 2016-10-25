@@ -10,7 +10,6 @@ title = "Bài thơ tặng anh"
 
 Đây là bài thơ mà Loan viết tặng tôi nhân ngày sinh nhật.
 
-======================================================
 
 	Anh yêu ơi, tình mình không đẹp như mơ
 	Nhưng có thể hòa huyện vào những vần thơ

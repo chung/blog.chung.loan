@@ -1,8 +1,7 @@
 +++
-Categories = ["poem", "loan"]
 Description = ""
 Tags = ["poem", "loan"]
-date = "2016-10-25T09:45:37+07:00"
+date = "2016-10-24T09:45:37+07:00"
 menu = "main"
 title = "Bài thơ tặng anh"
 

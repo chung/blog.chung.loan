@@ -7,7 +7,7 @@ title = "Bài thơ tặng anh"
 
 +++
 
-Đây là bài thơ mà Loan viết tặng tôi nhân ngày sinh nhật.
+_Đây là bài thơ mà Loan viết tặng tôi nhân ngày sinh nhật:_
 
 
 	Anh yêu ơi, tình mình không đẹp như mơ

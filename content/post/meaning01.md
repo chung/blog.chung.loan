@@ -7,10 +7,10 @@ title = "Sách dịch: Man's search for meaning"
 
 +++
 
-Man's search for meaning là quyển sách do Viktor E. Frankl viết. Tôi sẽ cố gắng dịch ra tiếng Việt bằng cách hiểu của tôi mà có thể lược bỏ một số đoạn khó dịch.
+_Man's search for meaning là quyển sách do Viktor E. Frankl viết. Tôi sẽ cố gắng dịch ra tiếng Việt bằng cách hiểu của tôi mà có thể lược bỏ một số đoạn khó dịch._
 
 
-PHẦN 1: Những trải nghiệm ở trong nhà tù phát xít Đức
+__PHẦN 1: Những trải nghiệm ở trong nhà tù phát xít Đức__
 
 
 

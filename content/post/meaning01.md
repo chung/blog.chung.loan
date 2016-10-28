@@ -61,3 +61,24 @@ Trong tâm lý học có một hiện tượng gọi là: ảo giác được th
 1500 tù nhân bị nhốt vào một cái trại nhỏ chỉ dành cho tối đa 200 người. Chúng tôi đều đói và lạnh. Trại nhỏ đến mức không đủ chổ cho chúng tôi đứng chứ đừng nói gì nằm. Trong 4 ngày, chúng tôi chỉ được ăn có 1 mẫu bánh mỳ nhỏ. Mặc dù vậy, tôi vẫn nghe tiếng kỳ kèo mặc cả của một người tù lâu năm cai quản trại với một người nhận tù binh mới về cái kẹp cà vạt làm bằng kim cương. Hầu hết số tiền kiếm được sẽ dùng để mua rượu. Tôi biết rằng những người tù lâu năm này cần đến rượu. Trong điều kiện như thế này, ai mà trách họ khi muốn giải sầu một chút chứ? Còn một nhóm tù nhân khác luôn được cấp rượu không có giới hạn: đó là các người chuyên làm trong các lò hoả thiêu và phòng hơi ngạt. Những người này biết rằng rồi cũng sẽ đến lượt họ phải chết mà thôi.
 
 
+Hầu hết chúng tôi đều sống trong viễn cảnh là sẽ được thả ra, và rằng mọi việc sẽ ổn, mà không nhận ra thực tế những gì sắp xảy ra. Chúng tôi được ra lệnh để lại hành lý trên tàu, và chia làm hai hàng - nam một hàng, nữ một hàng - khi đi qua một nhân viên SS. Điều ngạc nhiên là tôi dám giấu cái túi nhỏ trong áo khoác. Hàng của tôi từng người một từ từ đi qua nhân viên SS. Tôi nhận ra sự nguy hiểm nếu nhân viên này thấy cái túi của tôi. Ít nhất tôi cũng bị đánh gục, đó là từ kinh nghiệm mách bảo. Một cách bản năng, tôi cố đứng thẳng lưng khi đi qua để cho anh ta không nhìn thấy là tôi đang mang vác nặng. Và rồi tôi đối mặt với hắn. Hắn ta cao và gầy trong bộ áo đồng phục sạch sẽ. Thật là trái ngược với chúng tôi - bẩn thỉu và rách rưới sau một cuộc hành trình dài. Hắn có một thái độ bình thản, dùng tay trái nâng cùi chỏ tay phải. Rồi một cách nhẹ nhàng, hắn dùng ngón tay trỏ chỉ một cách thích thú về bên phải hoặc trái. Không ai trong chúng tôi biết được ý nghĩa của hành động này, lúc thì chỉ bên phải, lúc thì chỉ bên trái, mà hầu hết là về phía trái.
+
+Đến lượt tôi, tôi nghe tiếng ai đó thì thầm là phía bên phải dành cho những người khoẻ mạnh có khả năng làm việc, còn bên trái thì dành cho những ai ốm yếu và phải vào trại đặc biệt. Tôi thì đợi cho chuyện gì đến sẽ đến. Đây cũng là cách tôi đối phó với nhiều tình huống trong tương lai. Cái túi hơi nặng làm tôi nghiêng về bên trái. Cho nên tôi phải cố gắng đi cho thẳng. Tên nhân viên nhìn tôi ngập ngừng một chút, rồi đặt cả hai tay lên vai tôi. Tôi cố gắng hết sức để trong có vẻ lanh lợi, và hắn xoay người tôi từ từ về phía phải. Tôi đi về phía đó.
+
+Ý nghĩa của việc này được giải thích cho chúng tôi vào buổi tối. Đây là sự tuyển chọn đầu tiên giữa sống hay chết. Đối với hầu hết mọi người trong chuyến này, khoảng 90%, phải chết. Việc xử quyết được tiến hành vài giờ sau đó. Những ai bị đi về bên trái sẽ phải đi thẳng vào lò hoả thiêu. Cái lò này, tôi nghe những người làm ở đó kể lại, có từ "tắm" viết khắp các cửa bằng nhiều thứ tiếng. Khi vào đó, mỗi người được phát một miếng xà phòng. Tôi không phải kể lại những gì khủng khiếp diễn ra sau đó vì nhiều quyển sách đã kể chi tiết rồi.
+
+Số ít được sống sót chúng tôi biết sự thật này vào buổi tối. Tôi hỏi những tù nhân vào trước đó về một người bạn của tôi. Họ hỏi lại:
+  "anh ấy đi về bên trái à?"
+  "đúng rồi", tôi đáp.
+  "vậy thì bạn có thể nhìn thấy anh ấy kia", tôi được bảo như vậy.
+  "đâu?", tôi hỏi một cách ngây thơ.
+Một bàn tay chỉ về cái cột khỏi bốc lên từ lò hoả thiêu.
+  "đó là nơi anh bạn của anh đang bay về thiên đường".
+Nhưng tôi vẫn chưa hiểu thực sự cho đến khi được giải thích một cách rõ ràng.
+
+Về khía cạnh tâm lý, chúng tôi đã có một ngày dài từ khi đến ga này cho đến lúc được nghỉ ngơi trong trại.
+
+Bị giám sát bằng những nhân viên có mang súng, chúng tôi buộc phải chạy qua những hàng thép gai điện để đến nơi tắm rửa. Đây là "tắm" thật chứ không phải như những người bạn kém may mắn ở trên. Một lần nữa, ảo giác được tha lại được củng cố. Những nhân viên ở đây có vẻ thân thiện. Nhưng sau đó chúng tôi đã hiểu lý do. Họ thân thiện vì đã nhìn thấy những chiếc đồng hồ trên tay chúng tôi và vì họ sẽ nhẹ nhàng thuyết phục để chúng tôi đưa chúng lại. Đàng nào thì chúng tôi cũng phải giao đồ lại cơ mà, vậy thì tại sao lại không giao cho những người dể thương này. Biết đâu một ngày nào đó họ sẽ trả ơn.
+
+
+

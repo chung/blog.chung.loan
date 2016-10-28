@@ -77,7 +77,7 @@ Số ít được sống sót chúng tôi biết sự thật này vào buổi t�
 
   _"đâu?"_, tôi hỏi một cách ngây thơ.
 
-Một bàn tay chỉ về cái cột khỏi bốc lên từ lò hoả thiêu.
+Một bàn tay chỉ về cái cột khói bốc lên từ lò hoả thiêu.
 
   _"đó là nơi anh ấy đang bay về thiên đường"_
 
@@ -87,7 +87,7 @@ Về khía cạnh tâm lý, chúng tôi đã có một ngày dài từ khi đế
 
 Bị giám sát bằng những nhân viên mang súng, chúng tôi buộc phải chạy qua những hàng thép gai điện để đến nơi tắm rửa. Đây là "tắm" thật chứ không phải như những người bạn kém may mắn ở trên. Một lần nữa, ảo giác được tha lại được củng cố. Những nhân viên ở đây có vẻ thân thiện. Nhưng sau đó chúng tôi đã hiểu lý do. Họ thân thiện vì đã nhìn thấy những chiếc đồng hồ trên tay chúng tôi và vì họ sẽ nhẹ nhàng thuyết phục để chúng tôi đưa chúng lại. Đàng nào thì chúng tôi cũng phải giao đồ lại cơ mà, vậy thì tại sao lại không giao cho những người dể thương này. Biết đâu một ngày nào đó họ sẽ trả ơn.
 
-Chúng tôi ngồi trong một cái lán trông giống như phòng chờ của nơi vừa tắm rửa. Nhân viên SS xuất hiện và ném những cái khăn để chúng tôi bỏ đồ đạc vào đấy: tất cả đồng hồ và đồ trang sức. Có một vài tù nhân ngây thơ vẫn còn hỏi là liệu họ có thể giữ lại cái nhẫn cưới hoặc một cái huy chương hay không. Điều này khiến những người tù lâu năm đang phụ giúp ở đây bật cười. Không ai hiểu hết được sự thật là tất cả mọi thứ đều bị lấy đi.
+Chúng tôi ngồi trong một cái lán trông giống như phòng chờ của nơi vừa tắm rửa. Nhân viên SS xuất hiện và ném những cái khăn để chúng tôi bỏ đồ đạc vào đấy: tất cả đồng hồ và đồ trang sức. Có một vài tù nhân ngây thơ vẫn còn hỏi là liệu họ có thể giữ lại cái nhẫn cưới hoặc một cái huy chương hay không. Điều này khiến những người tù lâu năm đang phụ giúp ở đây bật cười. Không ai trong chúng tôi hiểu hết được sự thật là tất cả mọi thứ đều bị lấy đi.
 
 
 

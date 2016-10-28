@@ -68,17 +68,26 @@ Hầu hết chúng tôi đều sống trong viễn cảnh là sẽ được th�
 Ý nghĩa của việc này được giải thích cho chúng tôi vào buổi tối. Đây là sự tuyển chọn đầu tiên giữa sống hay chết. Đối với hầu hết mọi người trong chuyến này, khoảng 90%, phải chết. Việc xử quyết được tiến hành vài giờ sau đó. Những ai bị đi về bên trái sẽ phải đi thẳng vào lò hoả thiêu. Cái lò này, tôi nghe những người làm ở đó kể lại, có từ "tắm" viết khắp các cửa bằng nhiều thứ tiếng. Khi vào đó, mỗi người được phát một miếng xà phòng. Tôi không phải kể lại những gì khủng khiếp diễn ra sau đó vì nhiều quyển sách đã kể chi tiết rồi.
 
 Số ít được sống sót chúng tôi biết sự thật này vào buổi tối. Tôi hỏi những tù nhân vào trước đó về một người bạn của tôi. Họ hỏi lại:
-  "anh ấy đi về bên trái à?"
-  "đúng rồi", tôi đáp.
-  "vậy thì bạn có thể nhìn thấy anh ấy kia", tôi được bảo như vậy.
-  "đâu?", tôi hỏi một cách ngây thơ.
+
+  _"anh ấy đi về bên trái à?"_
+
+  _"đúng rồi"_, tôi đáp.
+
+  _"vậy thì bạn có thể nhìn thấy anh ấy kia"_, tôi được bảo như vậy.
+
+  _"đâu?"_, tôi hỏi một cách ngây thơ.
+
 Một bàn tay chỉ về cái cột khỏi bốc lên từ lò hoả thiêu.
-  "đó là nơi anh bạn của anh đang bay về thiên đường".
+
+  _"đó là nơi anh ấy đang bay về thiên đường"_
+
 Nhưng tôi vẫn chưa hiểu thực sự cho đến khi được giải thích một cách rõ ràng.
 
 Về khía cạnh tâm lý, chúng tôi đã có một ngày dài từ khi đến ga này cho đến lúc được nghỉ ngơi trong trại.
 
-Bị giám sát bằng những nhân viên có mang súng, chúng tôi buộc phải chạy qua những hàng thép gai điện để đến nơi tắm rửa. Đây là "tắm" thật chứ không phải như những người bạn kém may mắn ở trên. Một lần nữa, ảo giác được tha lại được củng cố. Những nhân viên ở đây có vẻ thân thiện. Nhưng sau đó chúng tôi đã hiểu lý do. Họ thân thiện vì đã nhìn thấy những chiếc đồng hồ trên tay chúng tôi và vì họ sẽ nhẹ nhàng thuyết phục để chúng tôi đưa chúng lại. Đàng nào thì chúng tôi cũng phải giao đồ lại cơ mà, vậy thì tại sao lại không giao cho những người dể thương này. Biết đâu một ngày nào đó họ sẽ trả ơn.
+Bị giám sát bằng những nhân viên mang súng, chúng tôi buộc phải chạy qua những hàng thép gai điện để đến nơi tắm rửa. Đây là "tắm" thật chứ không phải như những người bạn kém may mắn ở trên. Một lần nữa, ảo giác được tha lại được củng cố. Những nhân viên ở đây có vẻ thân thiện. Nhưng sau đó chúng tôi đã hiểu lý do. Họ thân thiện vì đã nhìn thấy những chiếc đồng hồ trên tay chúng tôi và vì họ sẽ nhẹ nhàng thuyết phục để chúng tôi đưa chúng lại. Đàng nào thì chúng tôi cũng phải giao đồ lại cơ mà, vậy thì tại sao lại không giao cho những người dể thương này. Biết đâu một ngày nào đó họ sẽ trả ơn.
+
+Chúng tôi ngồi trong một cái lán trông giống như phòng chờ của nơi vừa tắm rửa. Nhân viên SS xuất hiện và ném những cái khăn để chúng tôi ném đồ đạc vào đấy: tất cả đồng hồ và trang sức. Có một vài tù nhân ngây thơ vẫn còn hỏi là họ có thể giữ lại cái nhẫn cưới hay một cái huy chương hay không. Điều này khiến những người tù lâu năm đang phụ giúp ở đây bật cười. Không ai hiểu được hết sự thật là tất cả mọi thứ phải bị lấy đi.
 
 
 

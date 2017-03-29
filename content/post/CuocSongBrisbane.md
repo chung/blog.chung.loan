@@ -10,6 +10,8 @@ title = "Cuộc Sống Brisbane"
 
 +++
 
+![5/83 Indooroopilly](/img/home/home.jpg)
+
 Cuộc đời thật kỳ lạ, có những khoảnh khắc đến với mình chỉ một lần trong đời. Để Bố kể Sa nghe.
 
 Mọi việc diễn ra quá nhanh khiến Bố không kịp viết thư cho con. Mới hơn tuần trước Bố còn ở Việt Nam, ông nội thì bận rộn xếp hành lý rồi bịn rịn chia tay. Bố qua Sydney được đúng 1 tuần thì lên Brisbane. Lên Brisbane đúng 1 ngày thì đã mua nhà ở đây. Mẹ con bảo là Bố quá nhanh và _"quá nguy hiểm"._ Nghĩ lại cũng đúng.

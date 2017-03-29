@@ -6,6 +6,7 @@ date = "2017-03-27T09:57:13+11:00"
 title = "Dế mèn phiêu lưu ký"
 
 +++
+![Tô Hoài - Dế mèn phiêu lưu ký](/img/to-hoai-de-men-phieu-luu-ky.gif)
 
 Chuyến về Việt Nam vừa rồi, Bố có tặng cho con một người bạn thân quyển sách "Dế mèn phiêu lưu ký" của Tô Hoài. Một quyển sách mà Bố rất thích.
 

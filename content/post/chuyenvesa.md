@@ -8,6 +8,8 @@ title = "Chuyện về Sa"
 
 +++
 
+![Mai Sa](/img/sa.png)
+
 Thói thường thì, con ruột mình đẻ ra tất mình yêu quý. Thật không dể như vậy nếu không phải con mình. Tuy nhiên, bố lại có những tình cảm đặc biệt đối với Sa.
 
 Hôm qua, bố đón Sa ở trường. Vừa gặp bố, con nhanh nhảu nói: lâu quá rồi con mới được thấy bố. Bố cũng nói: à đúng rồi, lâu quá rồi bố mới được gặp con. Thế là con cười và đáp lại: mới có một tuần chứ bao nhiêu.

@@ -4,7 +4,7 @@ Description = ""
 Tags = ["letter", "saigon"]
 date = "2016-10-15T18:00:04+07:00"
 menu = "main"
-title = "Cuộc sống ở Sài Gòn"
+title = "Cuộc sống Sài Gòn"
 
 +++
 

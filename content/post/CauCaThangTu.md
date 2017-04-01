@@ -17,9 +17,9 @@ Bác làm nghề gì thì Bố chưa hỏi rõ, nhưng chỉ biết là cứ đ�
 
 Sa quý bác Hải lắm. Có lẽ vì bác nấu ăn ngon và hay kêu Sa ra ăn cùng. Hồi xưa bác đã từng làm đầu bếp nhà hàng mà.
 
-Tối qua Bố và bác Hải đi câu đêm. Mấy lần trước đi câu ban ngày. Cuối tuần vào ban ngày rất đông người, và cá câu được thường là cá ngừ. Mấy tuần vừa rồi ăn cá ngừ mãi rồi cũng chán. Bác Hải rủ đi câu [cá tailor](http://www.tackleworld.com.au/fish-species/tailor.html) vào ban đêm.
+Tối qua Bố và bác Hải đi câu đêm. Mấy lần trước đi câu ban ngày. Cuối tuần vào ban ngày rất đông người, và cá câu được thường là cá ngừ. Mấy tuần vừa rồi ăn cá ngừ mãi rồi cũng chán. Lần này bác Hải rủ đi câu [cá tailor](http://www.tackleworld.com.au/fish-species/tailor.html) vào ban đêm.
 
-Port Kembla nằm cách Sydney khoảng 100km về phía nam. Nơi đây có một số điểm câu cá lý tưởng. Thường là câu ở những mõm đá nằm vươn xa ngoài biển. Tại những điểm này nước khá sâu nên thường có cá to. Tuy nhiên cũng hay có sóng lớn. Đã nhiều [người chết](http://www.illawarramercury.com.au/story/1448142/port-kemblas-deadly-rock-fishing-history/) khi đi câu tại đây.
+[Port Kembla](https://en.wikipedia.org/wiki/Port_Kembla,_New_South_Wales) nằm cách Sydney khoảng 100km về phía nam. Nơi đây có một số điểm câu cá lý tưởng. Thường là câu ở những mõm đá nằm vươn xa ngoài biển. Tại những điểm này nước khá sâu nên thường có cá to. Tuy nhiên cũng hay có sóng lớn. Đã nhiều [người chết](http://www.illawarramercury.com.au/story/1448142/port-kemblas-deadly-rock-fishing-history/) khi đi câu tại đây.
 
 
 

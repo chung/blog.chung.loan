@@ -46,3 +46,9 @@ Sau khi quyết định vậy rồi, Bố hết hoảng hốt. Bố nhìn sự v
 Cuộc sống này quý giá hơn những con cá nhiều. Đi câu thì vui thật, nhưng phải an toàn mới được. An toàn là trên hết, vì Bố còn nhiều việc phải làm. Bố lắng nghe bác Hải kể lại những câu chuyện chết người khi đi câu cá. Nhiều người chấp nhận quá nhiều rủi ro không đáng có. Mà chủ yếu là người châu Á chết ở bãi câu này. Có lẽ vì họ có tính "gamble" cao chăng. Giống như lời của bác Hải: _họ bán mạng cho mấy con cá_.
 
 ![die while fishing](/img/fishing/die.jpg)
+
+
+Kết thúc buổi câu, bác Hải và Bố kiếm được hơn 10 con. Nhưng quan trọng hơn hết là trở về nhà được an toàn.
+
+![die while fishing](/img/fishing/fish1.jpg)
+

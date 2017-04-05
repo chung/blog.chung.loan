@@ -3,6 +3,7 @@ date = "2017-04-05T13:07:09+10:00"
 title = "Thói quen tiết kiệm"
 Description = ""
 menu = "main"
+draft = true
 Tags = ["letter","sa"]
 
 +++

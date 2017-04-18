@@ -2,3 +2,4 @@ baseurl = "http://blog.chung.loan/"
 languageCode = "vi-vn"
 title = "Chung .Loan"
 theme = "chung"
+disablePathToLower = true

@@ -13,7 +13,9 @@ Sáng nay mới 5h mẹ đã gọi Bố dậy: _"anh ơi cho em mượn cái iPh
 Mẹ tranh thủ lúc cơn đau còn cách quảng 5-7 phút, dậy sớm đi tắm rửa, chuẩn bị vào bệnh viện. Hơn 8h thì vào đến nơi, người ta cho vào phòng khám thì đã nở được 5cm. Cứ tưởng là sẽ đẻ nhanh, nào ngờ đợi tiếp 2 tiếng sau, kiểm tra lại vẫn chỉ 5cm. Mẹ lo lắng lắm vì sợ cơn đau kéo dài lâu. Cứ một chút mẹ lại hỏi y tá xem nở được bao nhiêu rồi. Nhưng cô y tá này với 13 năm kinh nghiệm, bảo mẹ cứ chờ đi, vì trung bình 1h chỉ nở được thêm 1cm thôi. Rồi thì cũng đến lúc cơn đau dồn dập hơn. Đau quá mẹ chịu không được và la khóc khe khẽ. Cuối cùng cũng đến giây phút con chui đầu ra được. Vậy là xong phần quan trọng nhất. Chắc con cũng phải cố gắng lắm. Con đã làm rất tốt phần việc của mình. Và mẹ và con đã phối hợp ăn ý để cuộc "vượt cạn" được tốt đẹp.
 Nhìn mẹ kiên cường vượt qua cơn đau, Bố không khỏi tự hào. Cô y tá cứ hỏi mẹ là có cần thuốc giảm đau không, nhưng mẹ quyết không dùng. Mẹ con thật là dũng cảm phải không Sammy.
 
-Chiều nay lúc 13:17 phút, con đã chào đời tại bệnh viện Fairfield.
+Chiều nay lúc 13:17 phút, con đã chào đời tại bệnh viện Fairfield. Cũng vào giờ này cách đây đúng 1 năm thì mẹ con đã gây bất ngờ khi là người đầu tiên chinh phục đỉnh núi Bà Đen. Trong nhóm đi lần đó thì Bố và chú Paul lại là những người lên đến nơi cuối cùng, sau mẹ con cả tiếng.
+
+![Lên Đỉnh](/img/loan.jpg)
 
 ![Sammy](/img/sammy.jpeg)
 

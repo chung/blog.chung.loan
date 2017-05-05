@@ -1,6 +1,6 @@
 +++
 date = "2017-05-05T09:55:11+10:00"
-title = "Bệnh Của Ông Nội"
+title = "Bệnh của ông nội"
 menu = "main"
 Tags = ["letter","sa"]
 Description = ""
@@ -27,7 +27,7 @@ Hơn 1 tiếng sau, vào khoảng giữa trưa, thì chạy ra tới Cửa Lò. 
 Ông nội bắt đầu lấy lại tự tin một chút: bao lâu nay sợ nắng gió không dám ra ngoài, mà hôm đấy ra biển, rồi còn chạy từ đó về Vinh hơn 10km giữa nắng và gió mà có chết được đâu. Tắm xong ông khoẻ ra và tâm lý có vẻ ổn định hơn. Nhưng bố vẫn chưa yên tâm. Bố sợ rằng nếu để ông nội quay về nhà thì lại chứng nào tật đấy, lại chui vào xó nhà và tự giết chết mình mất. Vì vậy bố quyết định mua vé máy bay cho ông đi vào Sài Gòn với bố ngay. Lúc đó chỉ còn khoảng 10 ngày là bố phải sang Úc, nên bố phải tranh thủ giúp ông thực sự hồi phục.
 
 
-Vào Sài Gòn, bố đưa ông nội đi chơi đây đó. Đặc biệt là thăm khu địa đạo Củ Chi. Ông nội sống lại những hào khí cách mạng và lấy lại tự tin. Hồi xưa ông 2 lần xung phong vào chiến trường, vào sinh ra tử mà có sợ gì đâu. Cớ sao lần này lại sợ chết. Khoảng 1 tuần sau, ông nội hoàn toàn khác hẳn, giống như trở thành một người khác. Chính ông cũng không nhận ra ông cách đó chỉ hơn 1 tuần, còn chui trong xó nhà, sinh hoạt tại chổ, nhờ bà nội đưa cơm vào. Quay về quê, bà nội mừng lắm, và kiếm việc cho ông làm để ông không còn "_nhà cư vi bất thiện_" nữa.
+Vào Sài Gòn, bố đưa ông nội đi chơi đây đó. Đặc biệt là thăm khu địa đạo Củ Chi. Ông nội sống lại những hào khí cách mạng và lấy lại tự tin. Hồi xưa ông 2 lần xung phong vào chiến trường, vào sinh ra tử mà có sợ gì đâu. Cớ sao lần này lại sợ chết. Khoảng 1 tuần sau, ông nội hoàn toàn khác hẳn, giống như trở thành một người khác. Chính ông cũng không nhận ra ông cách đó chỉ hơn 1 tuần, còn chui trong xó nhà, sinh hoạt tại chổ, nhờ bà nội đưa cơm vào. Quay về quê, bà nội mừng lắm, và kiếm việc cho ông làm để ông không còn "_nhàn cư vi bất thiện_" nữa.
 
 
 Câu chuyện 11 năm về trước là vậy đó. Lần này cũng tương tự. Xuất phát từ việc vườn rau đang trồng ở dưới chân chung cư bị thu hồi đất lại để xây dựng. Có lẽ ông nội hơi buồn vì không có gì làm nữa. Cũng có thể ông cô đơn vì bà nội đang sang Úc để phụ chăm cháu. Một mình ở nhà, ông bắt đầu nghĩ quẫn. Và cũng như lần trước: mọi việc xuất phát từ một lần tắm xong và ông cảm thấy ớn lạnh. Thực ra thì ai mà chả vậy, tắm xong thì giảm giác mát mẻ, hơi lạnh một chút là bình thường. Sài Gòn đang bước vào mùa mưa, và có thể ông lại suy diễn là bị mắc hơi mưa độc. Ông bắt đầu lo sợ. Và nghĩ là mình bị cảm hàn thật rồi. Đi khám bệnh thì người ta cho thuốc uống thôi. Nhưng mà đâu có phải cảm hàn đâu. Cái vòng luẫn quẩn lại bắt đầu. Ông bắt đầu kiêng cữ và tìm mọi thuốc từ Tây đến Ta để _diệt_ cho hết bệnh. Ông có hiểu đâu là bệnh ở đây là do tâm lý, tinh thần yếu gây nên. Không có ai bên cạnh lại làm cho bệnh nặng lên nhanh chóng.
